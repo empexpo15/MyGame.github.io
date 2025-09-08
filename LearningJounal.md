@@ -1,0 +1,2 @@
+Right now, I am learning how to use Unreal Engine's blueprints code, which is similar to drag and drop code, but a bit more complicated, and still easier to learn than needing to learn C++ 
+I have used this [video]([url](https://www.youtube.com/watch?v=1XjgLKrb4_M)) to help me learn and am currently following it just to at least make a FPS game so that I can learn how to make user interfaces and interact with physics and environments of the world. 
