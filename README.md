@@ -1,2 +1,3 @@
 # MyGame.github.io
-My Research can be found here https://docs.google.com/document/d/1lMqEPvpljtKNIO_glTBHAbGT1lE6Z-EUmYVLbriXmA8/edit?pli=1&tab=t.0#heading=h.mfo6se64lnz5
+My goal for this project is to  create a single-level 3D platformer in the same vein as Super Mario 3d World that has enemies, collectibles, and a boss at the end of the level, that is both fun and creative 
+
